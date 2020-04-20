@@ -1,0 +1,11 @@
+{
+  "editor.tabSize": 2,
+  "files.exclude": {
+    "**/.vscode":true,
+    "**/node_modules": true,
+    ".gitignore": true,
+    "express.js": true,
+    "package.json": true,
+    "package-lock.json": true
+  }
+}
